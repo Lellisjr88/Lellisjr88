@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lellis Júnior.
 
 - 🔭 Hoje trabalho como assistente e suporte em um projeto de sistemas para logística.
-- 🌱 Estudando Angular
+- 🌱 Estudando React
 - 😄 Pronomes: Ele/Dele
 
 
