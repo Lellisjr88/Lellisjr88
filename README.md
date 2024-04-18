@@ -22,7 +22,7 @@
   <a href="https://www.youtube.com/channel/UCovLovLvyYZLIUCAw18iMiQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-  ##
+ #
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LellisJr88&layout=compact)
