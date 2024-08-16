@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lellis Júnior.
 
 - 🔭 Hoje trabalho como front-end em um projeto para logística. Auxiliando no desenvolvimento de páginas web interativas e responsivas.
-- 🌱 Estudando React
+- 🌱 Em constante aprendizado
 - 😄 Pronomes: Ele/Dele
 
 
